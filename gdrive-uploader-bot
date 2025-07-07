@@ -1,0 +1,6 @@
+gdrive-uploader-bot/
+├── bot.py
+├── uploader.py
+├── requirements.txt
+├── Procfile
+├── .env (local config এর জন্য)
